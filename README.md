@@ -8,6 +8,8 @@
 * Activate the environment by using this command `conda activate environment`
 * Run jupyter Notebook  by using this command `jupyter notebook`
 
-#### Congratulations you have succesfully run the project
+### Congratulations you have succesfully run the project!!
+
+* For deactivate the environment use this command `conda deactivate` 
 
 > for any kind of help knock me on [Skype](https://join.skype.com/invite/uGGwakLZHivz)
